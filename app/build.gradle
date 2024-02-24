@@ -130,5 +130,6 @@ assets {
 grails {
     plugins {
         implementation project(':plugin')
+        implementation project(':ExamplePlugin')
     }
 }
